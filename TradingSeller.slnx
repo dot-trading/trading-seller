@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TradingSeller.Domain/TradingSeller.Domain.csproj" />
+    <Project Path="src/TradingSeller.Application/TradingSeller.Application.csproj" />
+    <Project Path="src/TradingSeller.Infrastructure/TradingSeller.Infrastructure.csproj" />
+    <Project Path="src/TradingSeller.Worker/TradingSeller.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TradingSeller.Domain.Tests/TradingSeller.Domain.Tests.csproj" />
+    <Project Path="tests/TradingSeller.Application.Tests/TradingSeller.Application.Tests.csproj" />
+    <Project Path="tests/TradingSeller.Integration.Tests/TradingSeller.Integration.Tests.csproj" />
+  </Folder>
+</Solution>
